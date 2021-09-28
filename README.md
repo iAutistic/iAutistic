@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![iAutistic's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAutistic)](https://github.com/anuraghazra/github-readme-stats)
+![iAutistic's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAutistic&show_icons=true&theme=radical)
 
 
 <!--
